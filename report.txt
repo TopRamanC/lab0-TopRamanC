@@ -1,6 +1,6 @@
 	```
-    Name: Ramanpreet
-    Lab Name: Chadha
+    Name: Ramanpreet Chadha
+    Lab Name: lab0
     Date Assigned: Sept 1, 2021
     Date Completed: Sept 1, 2021
     Status:  Completed <!-- select one -->
