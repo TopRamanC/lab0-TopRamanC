@@ -1,0 +1,15 @@
+	```
+    Name: Ramanpreet
+    Lab Name: Chadha
+    Date Assigned: Sept 1, 2021
+    Date Completed: Sept 1, 2021
+    Status:  Completed <!-- select one -->
+    Outstanding Issues:
+    Had CIT-384 VM issues due to csun IT.	<!-- insert description -->
+    
+    Major Impediments:
+    No Impediments.	<!-- insert description -->
+
+    Feedback Comments:
+    Simple lab assignment.    <!-- insert description --> 
+    ```
